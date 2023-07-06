@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.config-panel { margin:2em; }
+.config-panel div { margin-bottom: 0.4em;}
+.config-panel input#url { width:400px; height:20px; margin:0 1em; border:1px solid black; }
+.config-panel button { padding:0.8em 1.2em; margin-right:0.4em; }
